@@ -1,5 +1,8 @@
 # Context-Logger
+
 Is an Android Library that logs class name as TAG
+
+just pass `this`, no TAGs needed for simpler and smoother logging.
 
 Examples:
 
