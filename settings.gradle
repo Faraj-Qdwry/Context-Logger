@@ -1,0 +1,2 @@
+include ':app', ':context-logger'
+rootProject.name='Context Logger'
